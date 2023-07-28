@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "Dog_breed_prediction_Flask_App"
 AUTHOR_USER_NAME="pras-ops"
-SRC_REPO="chicken"
+SRC_REPO="Dog_breed"
 AUTHOR_EMAIL="prashantjacob.bilaspur@gmail.com"
 
 
